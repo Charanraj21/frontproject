@@ -1,0 +1,199 @@
+@media (max-width: 991px){
+    .text-content{
+        width: 100%;
+    }
+}
+
+@media (max-width: 767px){
+    .cont-two{
+        padding-top: 20px;
+    }
+    .he1{
+        font-size: 50px;
+        letter-spacing: -1px;
+    }
+    .ph{
+        font-size: 15px;
+    }
+    .col1,.col2{
+        width: 300px;
+        height: 360px;
+        border-radius: 49px;
+        padding: 15px;
+    }
+    .he2{
+        font-weight: 600;
+        padding-bottom: 10px;
+    }
+    .form-control{
+        font-size: 10px;
+    }
+    .bt1{
+        font-weight: 600;
+        width: 205px;
+        height: 36px;
+        border-radius: 19px;
+        margin-left: auto;
+        margin-right: auto;
+    
+        display: inline-block;
+    }
+    .cont-three{
+        height: auto;
+    }    
+    .hea{
+        font-size: 34px;
+        font-weight: 600;
+        padding: 50px 0px 10px;
+    }
+    .phe{
+        font-size: 18px;
+        font-weight: 600;
+        text-align: center;
+    }
+    .pher{
+        height: 150px;
+        font-size: 16px;
+        text-align: center;
+        padding: 0px 30px;
+    }
+    .img1{
+        height : auto; 
+        width : auto; 
+    }
+    .phe2{
+        font-size: 18px;
+        font-weight: 600;
+        text-align: center;
+    }
+    .pher2{
+        height: 150px;
+        font-size: 16px;
+        text-align: center;
+        padding: 0px 30px;
+    }
+    .cont-four{
+        height: 1000px;
+    }
+    .heade{
+        font-size: 34px;
+        line-height: 58px;
+        font-weight: 600;
+        padding-top: 20px;
+    }
+    .phera{
+        height: 99px;
+        font-size: 15px;
+        padding: 10px 50px 250px;
+    }
+    .cont-nine{
+        width: 300px;
+        height: auto;
+    } 
+    .cont-ten{
+        width: 250px;
+        height: 426px;
+        padding-top: 5px;
+    }
+    .bimg{
+        height: 150px;
+        width: 150px;
+    }
+    .hbug1{
+        font-size: 18px;
+        font-weight: 600;
+    }
+    .dbug1{
+        font-size: 16px;
+        padding: 10px 10px;
+    }
+    .carousel-indicators{
+        bottom: -100px;
+    }
+    .cont-five{
+        height: auto; 
+    }
+    .heade2{
+        font-size: 34px;
+        font-weight: 600;
+        padding: 20px 0px 5px;
+    }
+    .img2{
+        height: auto;
+    }
+    .phe3{
+        font-size: 17px;
+        padding-bottom: 20px;
+    }
+    .pher3{
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .cont-six{
+        height: auto;
+        padding: 20px 20px 40px 20px;
+    }
+    .cont-seven{
+        height: 500px;
+        padding-left: 10px; 
+        padding-top: 20px;
+    }
+    .col3{
+        width: 260px;
+        height: 51px;
+        border-radius: 35px;
+        padding-left: 5px;
+    }
+    .heade3{
+        font-size: 14px;
+        padding-right: 50px;
+    }
+    .logo3{
+        width: 25px;
+        height: 25px;
+        padding: 30px 10px;
+    }
+    .cont-eleven{
+        width: 430px;
+    }
+    .cont-twelve{
+        width: 330px;
+        height: 261px;
+    }
+    .rimg{
+        width: 47px;
+        height: 40px;
+    }
+    .rimg2{
+        width: 24px;
+        height: 25px;
+    }
+    .rhead{
+        font-size: 16px;
+        font-weight: 600;
+        padding-top: 5px;
+        padding-left: 90px;
+    }
+    .rdate{
+        font-size: 14px;
+    }
+    .rstar{
+        width: 18px;
+        height: 17px; 
+        padding-right: 2px;
+    }
+    .rdata{
+        font-size: 10px;
+    }
+    .cont-eight{
+        height: auto;
+    }
+    .logo2{
+        height: 48px;
+        padding: 2px 8px;
+    }
+    .phara4{
+        font-size: 16px;
+    }
+    
+}
